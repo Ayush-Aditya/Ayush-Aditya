@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush-Aditya
-- First-year computer science student.
+- Second-year computer science student.
 - 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently pursuing B.tech in computer science from Birla Institute of Technology, Mesra 
 - 💞️ I’m looking to collaborate on various technologies like ML, DL, GEN AI
