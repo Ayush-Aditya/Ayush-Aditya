@@ -28,8 +28,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-aditya&show_icons=true&locale=en&layout=compact" alt="ayush-aditya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-aditya&show_icons=true&locale=en" alt="ayush-aditya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-aditya&" alt="ayush-aditya" /></p>
