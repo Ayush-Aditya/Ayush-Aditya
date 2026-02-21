@@ -8,7 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/ayush-aditya-link-kedin/](https://www.linkedin.com/in/ayush-aditya-dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-aditya-link-kedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-aditya-dev/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="ayush-aditya-linkedin"
+       height="30"
+       width="40" />
+</a>
 <a href="https://instagram.com/a.a.official_da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.a.official_da" height="30" width="40" /></a>
 </p>
 
